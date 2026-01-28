@@ -1,0 +1,297 @@
+[
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Polls",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "AddAsync",
+    "RelativePath": "api/Polls",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PollRequest",
+        "Type": "BucketSurvey.Api.Contract.Poll.PollRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "Update",
+    "RelativePath": "api/Polls/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "BucketSurvey.Api.Contract.Poll.PollRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "Delete",
+    "RelativePath": "api/Polls/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "GetPoll",
+    "RelativePath": "api/Polls/{ID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "ToggleIsPublishedStatus",
+    "RelativePath": "api/Polls/{Id}/togglestatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.QuestionsController",
+    "Method": "GetAll",
+    "RelativePath": "api/polls/{pollid}/Questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.QuestionsController",
+    "Method": "Add",
+    "RelativePath": "api/polls/{pollid}/Questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "BucketSurvey.Api.Contract.Question.QuestionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.QuestionsController",
+    "Method": "Get",
+    "RelativePath": "api/polls/{pollid}/Questions/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.QuestionsController",
+    "Method": "Update",
+    "RelativePath": "api/polls/{pollid}/Questions/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "questionRequest",
+        "Type": "BucketSurvey.Api.Contract.Question.QuestionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.QuestionsController",
+    "Method": "ToggleStatus",
+    "RelativePath": "api/polls/{pollid}/Questions/{Id}/togglestatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.VotesController",
+    "Method": "GetAvaliable",
+    "RelativePath": "api/polls/{pollid}/vote",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.VotesController",
+    "Method": "Vote",
+    "RelativePath": "api/polls/{pollid}/vote",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pollid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "voteRequest",
+        "Type": "BucketSurvey.Api.Contract.Vote.VoteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.PollsController",
+    "Method": "GetCurrent",
+    "RelativePath": "api/Polls/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.AuthenticationController",
+    "Method": "LoginAsync",
+    "RelativePath": "Authentication",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AuthRequest",
+        "Type": "BucketSurvey.Api.Contract.Authentication.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.AuthenticationController",
+    "Method": "GetRefreshTokenAsync",
+    "RelativePath": "Authentication/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reftokenRequest",
+        "Type": "BucketSurvey.Api.Contract.Authentication.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BucketSurvey.Api.Controllers.AuthenticationController",
+    "Method": "RevokeRefreshTokenAsync",
+    "RelativePath": "Authentication/revoke-refresh-token",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reftokenRequest",
+        "Type": "BucketSurvey.Api.Contract.Authentication.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
