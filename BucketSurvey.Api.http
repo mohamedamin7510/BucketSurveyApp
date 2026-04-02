@@ -1,0 +1,31 @@
+@BucketSurvey.Api_HostAddress = https://localhost:7166
+
+GET {{BucketSurvey.Api_HostAddress}}/api/polls
+Accept: application/json
+
+###
+
+@Id=2
+GET {{BucketSurvey.Api_HostAddress}}/api/polls/{{Id}}
+
+###
+
+POST {{BucketSurvey.Api_HostAddress}}/api/polls
+Content-Type: application/json
+
+{
+
+}
+
+###
+
+PUT {{BucketSurvey.Api_HostAddress}}/api/Polls
+Content-Type: application/json
+{
+   "Id":1,
+   "title":"Poll Updated",
+   "Descreptoion":"Descreptoion Updated"
+}
+
+
+###

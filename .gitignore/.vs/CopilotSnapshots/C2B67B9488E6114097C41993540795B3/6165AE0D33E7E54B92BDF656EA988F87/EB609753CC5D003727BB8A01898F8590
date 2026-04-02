@@ -1,0 +1,5 @@
+﻿# Copilot Instructions
+
+## Project Guidelines
+- User wants ATS-optimized CV wording that highlights backend .NET skills, architecture patterns, testing, DevOps, and integrations (SignalR, xUnit, Docker, GitHub Actions, Terraform, OAuth social login, SMTP).
+- For ATS CV output, replace Python with JavaScript and present skills aligned for HR/ATS; mention practical knowledge of Design Patterns, Clean Code, and SOLID.

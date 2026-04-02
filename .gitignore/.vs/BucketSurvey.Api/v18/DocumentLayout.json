@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\abstractions\\const\\providers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:abstractions\\const\\providers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\bucketsurvey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:bucketsurvey.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\contract\\authentication\\googleloginrequestvaildator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:contract\\authentication\\googleloginrequestvaildator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\contract\\authentication\\googleloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:contract\\authentication\\googleloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\authentication\\filters\\permissionauthorizationpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:authentication\\filters\\permissionauthorizationpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Api_Projects\\Project\\BucketSurvey.Api\\Migrations\\20260401161532_hello external apis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260401161532_hello external apis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\authentication\\filters\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:authentication\\filters\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|d:\\api_projects\\project\\bucketsurvey.api\\.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DB8DBB91-DD09-42D9-BF42-D63A4E5247EF}|BucketSurvey.Api.csproj|solutionrelative:.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Providers.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Abstractions\\Const\\Providers.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Const\\Providers.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Abstractions\\Const\\Providers.cs",
+              "RelativeToolTip": "Abstractions\\Const\\Providers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:16:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAAAMIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:57:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T15:44:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:53:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAF8AAACAMjMzMzMnwGcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:56:59.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BucketSurvey.Api.csproj",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\BucketSurvey.Api.csproj",
+              "RelativeDocumentMoniker": "BucketSurvey.Api.csproj",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\BucketSurvey.Api.csproj",
+              "RelativeToolTip": "BucketSurvey.Api.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T17:58:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleLoginRequestVaildator.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Contract\\Authentication\\GoogleLoginRequestVaildator.cs",
+              "RelativeDocumentMoniker": "Contract\\Authentication\\GoogleLoginRequestVaildator.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Contract\\Authentication\\GoogleLoginRequestVaildator.cs",
+              "RelativeToolTip": "Contract\\Authentication\\GoogleLoginRequestVaildator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:00:25.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleLoginRequest.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Contract\\Authentication\\GoogleLoginRequest.cs",
+              "RelativeDocumentMoniker": "Contract\\Authentication\\GoogleLoginRequest.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Contract\\Authentication\\GoogleLoginRequest.cs",
+              "RelativeToolTip": "Contract\\Authentication\\GoogleLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:52:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\.github\\copilot-instructions.md",
+              "RelativeDocumentMoniker": ".github\\copilot-instructions.md",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\.github\\copilot-instructions.md",
+              "RelativeToolTip": ".github\\copilot-instructions.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-01T18:17:35.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DependencyInjection.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "DependencyInjection.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAASwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:44:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:24:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T16:07:13.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260401161532_hello external apis.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Migrations\\20260401161532_hello external apis.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260401161532_hello external apis.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Migrations\\20260401161532_hello external apis.cs",
+              "RelativeToolTip": "Migrations\\20260401161532_hello external apis.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:15:33.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\JwtProvider.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:18:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:50:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PermissionAuthorizationPolicyProvider.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\Filters\\PermissionAuthorizationPolicyProvider.cs",
+              "RelativeDocumentMoniker": "Authentication\\Filters\\PermissionAuthorizationPolicyProvider.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\Filters\\PermissionAuthorizationPolicyProvider.cs",
+              "RelativeToolTip": "Authentication\\Filters\\PermissionAuthorizationPolicyProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:46:12.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermissionAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\Filters\\PermissionAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "Authentication\\Filters\\PermissionAuthorizationHandler.cs",
+              "ToolTip": "D:\\Api_Projects\\Project\\BucketSurvey.Api\\Authentication\\Filters\\PermissionAuthorizationHandler.cs",
+              "RelativeToolTip": "Authentication\\Filters\\PermissionAuthorizationHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T13:44:36.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
